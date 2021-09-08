@@ -20,6 +20,3 @@
 <a href="https://www.instagram.com/pyr8x/"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="instagram" width="90">
 </div>
 
-												     
-#
-<div align="center"><font size="2px;">© Created By <a href="https://github.com/Pyr33x">EhsanFox</a> For <a href"http://instagram.com/pyr8x">Team</a></font></div>
