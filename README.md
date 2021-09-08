@@ -15,13 +15,17 @@
 - 🍉 Programmer & App Dev
 
 # 💥 Tools
-   ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
-   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+[<img src='https://i.giphy.com/media/LMt9638dO8dftAjtco/100.webp' width='40' height='40' />](https://python.org/)
+[<img src='https://physionet.org/static/images/about/django-logo.svg' width='40' height='40' />](https://djangoproject.com/)
+[<img src='https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200.webp' width='40' height='40' />](https://nodejs.org/)
+[<img src='https://i.giphy.com/media/eNAsjO55tPbgaor7ma/100w.webp' width='40' height='40' />](https://reactjs.org/)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' width='40' height='40' />](https://typescriptlang.org/)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg' width='40' height='40' />](https://www.npmjs.com/package/master-video)
+[<img src='https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg' width='40' height='40' />](https://webpack.js.org)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg' width='40' height='40' />](https://sass-lang.com/)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' width='40' height='40' />](https://git-scm.com/)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' width='40' height='40' />](https://marketplace.visualstudio.com/items?itemName=i007c.00-team-theme)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg' width='40' height='40' />](https://www.docker.com/) -->
 
 <h2>Contact Me <img width="50" height="28" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="socialmedia"></h2>
 
