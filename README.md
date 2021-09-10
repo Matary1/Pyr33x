@@ -24,7 +24,7 @@
 [<img src='https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg' width='40' height='40' />](https://webpack.js.org)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg' width='40' height='40' />](https://sass-lang.com/)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' width='40' height='40' />](https://git-scm.com/)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' width='40' height='40' />](https://marketplace.visualstudio.com/items?itemName=i007c.00-team-theme)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' width='40' height='40' />](https://code.visualstudio.com)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg' width='40' height='40' />](https://www.docker.com/)
 
 <h2>Contact Me <img width="50" height="28" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="socialmedia"></h2>
