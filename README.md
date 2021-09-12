@@ -8,10 +8,9 @@
 </br>
 </br>  
 
-- 🌠 Discord Dev For 4 Years ..,
+- 🌠 Discord Full Developer  ..,
 - 🤍 Web Designer | Front End Dev ..,
 - 🧪 Web Developer | Back End Dev ..,
-- ⚡ Cyber Securty & PenTest
 - 🍉 Programmer & App Dev
 
 # 💥 Tools
