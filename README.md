@@ -13,6 +13,10 @@
 - 🧪 Web Developer | Back End Dev ..,
 - 🍉 Programmer & App Dev
 
+### Skills
+<h3> HTML Skill</h3>
+<progress value="85" max="100"></progress>
+
 ### 💥 Tools
 [<img src='https://i.giphy.com/media/LMt9638dO8dftAjtco/100.webp' width='40' height='40' />](https://python.org/)
 [<img src='https://physionet.org/static/images/about/django-logo.svg' width='40' height='40' />](https://djangoproject.com/)
