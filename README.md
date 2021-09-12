@@ -26,6 +26,7 @@
 [<img src='https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg' width='40' height='40' />](https://webpack.js.org)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' width='40' height='40' />](https://git-scm.com/)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' width='40' height='40' />](https://code.visualstudio.com)
+[<img src='https://cdn.discordapp.com/attachments/834526431199100938/886611026341150760/download-removebg-preview.png' width='40' height='40' />](https://discord.com)
 
 <h2>Contact Me <img width="50" height="28" src="https://cdn.discordapp.com/attachments/772475225987612682/886610196158378105/853915122305335336.png" alt="socialmedia"></h2>
 
