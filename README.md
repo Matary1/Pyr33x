@@ -8,7 +8,7 @@
 </br>
 </br>  
 
-<h2>Kir <img width="50" height="28" src="https://cdn.discordapp.com/emojis/852248515216146465.png?v=1" alt="Maybe"></h2>
+<h2>Soon .., <img width="50" height="28" src="https://cdn.discordapp.com/emojis/873867928653676555.png?v=1" alt="Idk"></h2>
 
 ### 🥱 Work's
 - 🌠 Discord Full Developer  ..,
