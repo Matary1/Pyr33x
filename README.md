@@ -13,6 +13,8 @@
 - 🤍 Web Designer | Front End Dev ..,
 - 🧪 Web Developer | Back End Dev ..,
 - 🍉 Programmer & App Dev
+- ✨ Cyber Sec, PenTest
+
 
 ### 🤞 Skills
 - Html / CSS
