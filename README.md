@@ -8,6 +8,8 @@
 </br>
 </br>  
 
+<h2>Kir <img width="50" height="28" src="https://cdn.discordapp.com/emojis/852248515216146465.png?v=1" alt="Maybe"></h2>
+
 ### 🥱 Work's
 - 🌠 Discord Full Developer  ..,
 - 🤍 Web Designer | Front End Dev ..,
