@@ -8,14 +8,21 @@
 </br>
 </br>  
 
+
 - 🌠 Discord Full Developer  ..,
 - 🤍 Web Designer | Front End Dev ..,
 - 🧪 Web Developer | Back End Dev ..,
 - 🍉 Programmer & App Dev
 
 ### Skills
-<h3> HTML Skill</h3>
-<progress value="85" max="100"></progress>
+- Html / CSS
+- PHP
+- Python
+- Java
+- JavaScript
+- TypeScript
+- React.js 
+- Data Base | MySQL
 
 ### 💥 Tools
 [<img src='https://i.giphy.com/media/LMt9638dO8dftAjtco/100.webp' width='40' height='40' />](https://python.org/)
