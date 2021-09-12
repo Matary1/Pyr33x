@@ -16,16 +16,6 @@
 - ✨ Cyber Sec, PenTest
 
 
-### 🤞 Skills
-- Html / CSS
-- PHP
-- Python
-- Java
-- JavaScript
-- TypeScript
-- React.js 
-- Data Base | MySQL
-
 ### 💥 Tools
 [<img src='https://i.giphy.com/media/LMt9638dO8dftAjtco/100.webp' width='40' height='40' />](https://python.org/)
 [<img src='https://physionet.org/static/images/about/django-logo.svg' width='40' height='40' />](https://djangoproject.com/)
@@ -37,7 +27,7 @@
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' width='40' height='40' />](https://git-scm.com/)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' width='40' height='40' />](https://code.visualstudio.com)
 
-<h2>Contact Me <img width="50" height="28" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="socialmedia"></h2>
+<h2>Contact Me <img width="50" height="28" src="https://cdn.discordapp.com/attachments/772475225987612682/886610196158378105/853915122305335336.png" alt="socialmedia"></h2>
 
 <div align="center">
 <a href="https://www.instagram.com/pyr8x/"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="instagram" width="90">
