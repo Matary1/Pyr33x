@@ -8,13 +8,13 @@
 </br>
 </br>  
 
-
+### 🥱 Work's
 - 🌠 Discord Full Developer  ..,
 - 🤍 Web Designer | Front End Dev ..,
 - 🧪 Web Developer | Back End Dev ..,
 - 🍉 Programmer & App Dev
 
-### Skills
+### 🤞 Skills
 - Html / CSS
 - PHP
 - Python
