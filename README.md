@@ -11,7 +11,7 @@
 ### 🥱 Work's
 - 🤍 Web Designer | Front End Dev ..,
 - 🧪 Web Developer | Back End Dev ..,
-- - 🍉 Programmer & App Dev ..,
+- 🍉 Programmer & App Dev ..,
 - 🌠 Discord Developer
 
 
