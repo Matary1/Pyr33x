@@ -9,10 +9,10 @@
 </br>  
 
 ### 🥱 Work's
-- 🌠 Discord Full Developer  ..,
 - 🤍 Web Designer | Front End Dev ..,
 - 🧪 Web Developer | Back End Dev ..,
-- 🍉 Programmer & App Dev
+- - 🍉 Programmer & App Dev ..,
+- 🌠 Discord Developer
 
 
 ### 💥 Tools
