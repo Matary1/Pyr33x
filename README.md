@@ -27,7 +27,7 @@
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' width='40' height='40' />](https://code.visualstudio.com)
 [<img src='https://cdn.discordapp.com/attachments/834526431199100938/886613841717366864/513-5130232_discord-png-icon-transparent-background-discord-logo-transparent-removebg-preview.png' width='40' height='40' />](https://discord.com)
 
-<h2>Contact Me <img width="50" height="28" src="https://cdn.discordapp.com/attachments/872394430810837033/886872097366868008/petthepeepo-pepe-the-frog.gif" alt="socialmedia"></h2>
+<h2>Contact Me <img width="50" height="28" src="https://cdn.discordapp.com/attachments/866967773132750878/887669423954067486/heart-on-fire_2764-fe0f-200d-1f525.png" alt="socialmedia"></h2>
 
 <div align="center">
 <a href="https://www.instagram.com/pyr8x/"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="instagram" width="90">
