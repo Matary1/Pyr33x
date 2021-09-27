@@ -8,7 +8,7 @@
 </br>
 </br>  
 
-<h2>Skills <img width="50" height="28" </h2>
+<h2>Skills <img width="50" height="28" src"https://cdn.discordapp.com/attachments/874992162549420133/891938289332940800/Cat8.png" </h2>
   
   
 - 🤍 Web Designer | Front End Dev ..,
