@@ -18,7 +18,6 @@
 
 
 ### 💥 Tools
-[<img src='https://physionet.org/static/images/about/django-logo.svg' width='40' height='40' />](https://djangoproject.com/)
 [<img src='https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200.webp' width='40' height='40' />](https://nodejs.org/)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' width='40' height='40' />](https://typescriptlang.org/)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg' width='40' height='40' />](https://www.npmjs.com/package/master-video)
