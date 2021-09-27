@@ -8,7 +8,7 @@
 </br>
 </br>  
 
-<span> 🥱 Work's <span/>
+<h2>Skills <img width="50" height="28" </h2>
 - 🤍 Web Designer | Front End Dev ..,
 - 🧪 Web Developer | Back End Dev ..,
 - 🍉 Programmer & App Dev ..,
