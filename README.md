@@ -25,6 +25,7 @@
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' width='40' height='40' />](https://git-scm.com/)
 [<img src='https://i.giphy.com/media/LMt9638dO8dftAjtco/100.webp' width='40' height='40' />](https://python.org/)
 [<img src='https://i.giphy.com/media/eNAsjO55tPbgaor7ma/100w.webp' width='40' height='40' />](https://reactjs.org/)
+[<img src='https://www.php.net/images/logos/new-php-logo.svg' width='50' height='40' />](https://www.php.net/)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' width='40' height='40' />](https://code.visualstudio.com)
 [<img src='https://cdn.discordapp.com/attachments/834526431199100938/886613841717366864/513-5130232_discord-png-icon-transparent-background-discord-logo-transparent-removebg-preview.png' width='40' height='40' />](https://discord.com)
 
