@@ -8,7 +8,7 @@
 </br>
 </br>  
 
-### ☄️ Skills
+<b>This text is bold</b>
   
   
 - 🤍 Web Designer | Front End Dev ..,
