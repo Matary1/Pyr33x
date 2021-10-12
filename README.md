@@ -83,7 +83,8 @@
 <a href="https://www.instagram.com/pyr8x/"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="instagram" width="90">
 </div>
 
-###  GitHub Stats
+
+<h2> Github Stats </h2>
 
 <div align="center">
   <span>Pyr33x Github Stats</span>
