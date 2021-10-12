@@ -8,7 +8,8 @@
 </br>
 </br>  
 
-<b>Skiils</b>
+
+<h2> Skill's </h2>
   
   
 - 🤍 Web Designer | Front End Dev ..,
