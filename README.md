@@ -15,7 +15,6 @@
 - 🤍 Web Designer | Front End Dev ..,
 - 🧪 Web Developer | Back End Dev ..,
 - 🍉 Programmer & App Dev ..,
-- 🌠 Discord Developer
 
 
 <h2> Technologies And Tools </h2>
