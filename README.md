@@ -9,12 +9,11 @@
 </br>  
 
 
-<h2> Skill's </h2>
+<h2> Wrok`s </h2>
   
   
-- 🤍 Web Designer | Front End Dev ..,
-- 🧪 Web Developer | Back End Dev ..,
-- 🍉 Programmer & App Dev ..,
+- Full Stack Dev, App Dev 🕊️🖤
+
 
 
 <h2> Technologies And Tools </h2>
