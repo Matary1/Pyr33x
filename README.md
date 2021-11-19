@@ -12,7 +12,7 @@
 <h2> Wrok`s </h2>
   
   
-- Full Stack Dev, App Dev <b> <img src="https://cdn.discordapp.com/emojis/894509415233904640.png?size=80" width="30"> <img src="https://cdn.discordapp.com/attachments/874992162549420132/910553546083156018/dove_1f54a-fe0f.png" width="30"> </b>
+- Full Stack Dev, App Dev <b> <img src="https://cdn.discordapp.com/emojis/894509415233904640.png?size=48" width="30"> <img src="https://cdn.discordapp.com/emojis/909090046269861958.png?size=48" width="30"> </b>
 
 
 
