@@ -75,7 +75,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-<h2>Contact Me <img width="50" height="28" src="https://cdn.discordapp.com/attachments/866967773132750878/887669423954067486/heart-on-fire_2764-fe0f-200d-1f525.png" alt="socialmedia"></h2>
+<h2>Contact Me <img width="50" height="28" src="https://cdn.discordapp.com/emojis/894509415233904640.png?size=32" alt="socialmedia"></h2>
 
 <div align="center">
 <a href="https://www.instagram.com/pyr8x/"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="instagram" width="90">
