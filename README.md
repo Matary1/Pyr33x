@@ -14,7 +14,6 @@
   
 <p> Full Stack Dev, App Dev <b> <img src="https://cdn.discordapp.com/emojis/894509415233904640.png?size=32" width="15"> <img src="https://cdn.discordapp.com/emojis/909090046269861958.png?size=32" width="15"> </b> </p>
 
-  <iframe src="https://discord.com/widget?id=522406130543230987&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 <h2> Technologies And Tools </h2>
 
