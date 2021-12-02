@@ -53,37 +53,7 @@
 
 <br><br>
 
-<h1 align="center">
-    GitHub Stats
-</h1>
 
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-parsa&langs_count=10&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=171717&title_color=e92e2e&icon_color=e92e2e&text_color=ffffff&count_private=true"  alt=""/>
-</div>
-<br/>
 
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=im-parsa&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=171717&title_color=e92e2e&icon_color=e92e2e&text_color=ffffff&count_private=true"  alt=""/>
-</div>
-
-<br/>
-
-<div align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-parsa&theme=gruvbox_duo&background=171717&hide_border=true&ring=e92e2e&currStreakLabel=e92e2e&sideNums=F84C4C&currStreakNum=ff7979&sideLabels=e92e2e&text_color=ffffff&count_private=true"  alt=""/>
-</div>
-
-<br/>
-
-<div align="center"> 
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=im-parsa&custom_title=im-parsa's%20Contribution%20Graph&bg_color=171717&color=e92e2e&line=FFFFFF&point=e92e2e&hide_border=F84C4C&count_private=true"  alt=""/>     </a>
-</div>
-
-<br/><br/>
-
-<div align="center"> 
-    <img align="center" src="https://discord.c99.nl/widget/theme-1/488958506280550402.png" alt=""/>
-</div>
-
-<br/>
 
 <img src="https://cdn.discordapp.com/attachments/844973689292193824/915914428929691648/footer.png" alt="Footer image">
