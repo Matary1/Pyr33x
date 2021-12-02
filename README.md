@@ -1,4 +1,4 @@
-<img src="https://github.com/im-parsa/im-parsa/raw/main/hero.png" alt="Hero image">
+<img src="https://cdn.discordapp.com/attachments/844973689292193824/915907835781599252/hero.png" alt="Hero image">
 
 <div align="center">
     <h4 align="center"><samp> Front End Developer - Ui Designer </samp></h4>
