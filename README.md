@@ -16,7 +16,7 @@
 
 <p align="center">
     <a href="https://instagram.com/bardiahero"><img src="https://img.shields.io/badge/Instagram-171717?style=for-the-badge&logo=instagram&logoColor=e92e2e" style="border-radius:15px" alt="Instagram"></a>
-    <a href="https://discord.com/invite/RUrks4JqW6"><img src="https://img.shields.io/badge/Discord-171717?style=for-the-badge&logo=discord&logoColor=e92e2e" style="border-radius:15px" alt="Discord"></a>
+    <a href="https://discord.gg/SrPsF7Fdpf"><img src="https://img.shields.io/badge/Discord-171717?style=for-the-badge&logo=discord&logoColor=e92e2e" style="border-radius:15px" alt="Discord"></a>
 </p>
 
 <br><br>
@@ -26,14 +26,9 @@
 </h1>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/TypeScript-171717?style=for-the-badge&logo=typescript&logoColor=e92e2e" alt="TypeScript" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=e92e2e" alt="JavaScript" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Node.js-171717?style=for-the-badge&logo=node.js&logoColor=e92e2e" alt="Node.js" style="border-radius:15px"/>
-    <br/>
     <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=e92e2e" alt="HTML5" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/CSS3-171717?style=for-the-badge&logo=css3&logoColor=e92e2e" alt="CSS3" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Sass-171717?style=for-the-badge&logo=sass&logoColor=e92e2e" alt="SASS" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/PHP-171717?style=for-the-badge&logo=php&logoColor=e92e2e" alt="PHP" style="border-radius:15px"/>
 </div>
 
 <br><br>
@@ -44,16 +39,6 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/React-171717?style=for-the-badge&logo=react&logoColor=e92e2e" alt="React"  style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/React_Router-171717?style=for-the-badge&logo=react-router&logoColor=e92e2e" alt="React Router" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Electron.js-171717.svg?style=for-the-badge&logo=electron&logoColor=e92e2e" alt="Electron.js" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/MongoDB-171717?style=for-the-badge&logo=mongodb&logoColor=e92e2e" alt="MongoDB" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Express.js-171717.svg?style=for-the-badge&logo=express&logoColor=e92e2e" alt="Express.js" style="border-radius:15px"/> 
-    <br/>
-    <img src="https://img.shields.io/badge/Redis-171717.svg?style=for-the-badge&logo=redis&logoColor=e92e2e" alt="Redis" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Heroku-171717?style=for-the-badge&logo=heroku&logoColor=e92e2e" alt="Heroku" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/git-171717.svg?style=for-the-badge&logo=git&logoColor=e92e2e" alt="Git" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Markdown-171717?style=for-the-badge&logo=markdown&logoColor=e92e2e" alt="Markdown" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Webstorm-171717.svg?&style=for-the-badge&logo=webstorm&logoColor=e92e2e" alt="Webstorm" style="border-radius:15px"/>
 </div>
 
 <br><br>
@@ -63,8 +48,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ubuntu-171717?style=for-the-badge&logo=ubuntu&logoColor=e92e2e" alt="Ubuntu"  style="border-radius:15px"/>
-  <img src="https://img.shields.io/badge/Arch_Linux-171717?style=for-the-badge&logo=arch-linux&logoColor=e92e2e" alt="Arch Linux"  style="border-radius:15px"/>
   <img src="https://img.shields.io/badge/Windows-171717?style=for-the-badge&logo=windows&logoColor=e92e2e" alt="Windows"  style="border-radius:15px"/>
 </p>
 
@@ -103,4 +86,4 @@
 
 <br/>
 
-<img src="https://github.com/im-parsa/im-parsa/raw/main/footer.png" alt="Footer image">
+<img src="https://cdn.discordapp.com/attachments/844973689292193824/915914428929691648/footer.png" alt="Footer image">
