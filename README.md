@@ -1,90 +1,106 @@
+<img src="https://github.com/im-parsa/im-parsa/raw/main/hero.png" alt="Hero image">
+
 <div align="center">
-<h2>Hi, I'm Pyrex
-<img src="https://cdn.discordapp.com/emojis/873867928653676555.png?v=1" width="30">
-</h2>
+    <h4 align="center"><samp> Front End Developer - Ui Designer </samp></h4>
 </div>
 
-</br>
-</br>
-</br>  
+<br>
 
+<h3 align="center">
+   I am currently working on cool idea.
+</h3>
 
-<h2> Wrok`s </h2>
-  
-  
-<p> Full Stack Dev, App Dev <b> <img src="https://cdn.discordapp.com/emojis/894509415233904640.png?size=32" width="15"> <img src="https://cdn.discordapp.com/emojis/909090046269861958.png?size=32" width="15"> </b> </p>
+<p align="center">
+    My First Project <a href="http://bardiakhakpour.tech" target="_follow" title="Bardia Khakpour">bardiakhakpour.tech</a>
+</p>
 
+<p align="center">
+    <a href="https://instagram.com/bardiahero"><img src="https://img.shields.io/badge/Instagram-171717?style=for-the-badge&logo=instagram&logoColor=e92e2e" style="border-radius:15px" alt="Instagram"></a>
+    <a href="https://discord.com/invite/RUrks4JqW6"><img src="https://img.shields.io/badge/Discord-171717?style=for-the-badge&logo=discord&logoColor=e92e2e" style="border-radius:15px" alt="Discord"></a>
+</p>
 
+<br><br>
 
-<h2> Technologies And Tools </h2>
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Java Script](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![Type Script](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Vue.JS](https://img.shields.io/badge/Vue.JS-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![Angular JS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=babel&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
-![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=flat&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Graph QL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat&logo=xamarin&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Open CV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Postgre SQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2498ED?style=flat&logo=docker&logoColor=white)
-![GNU Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![FireBase](https://img.shields.io/badge/FireBase-FFCA28?style=flat&logo=firebase&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-![UnReal](https://img.shields.io/badge/Unreal-313131?style=flat&logo=unreal-engine&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-<h2>Contact Me <img width="25" height="28" src="https://cdn.discordapp.com/emojis/894509415233904640.png?size=32" alt="socialmedia"></h2>
+<h1 align="center">
+    Programming Language
+</h1>
 
 <div align="center">
-<a href="https://www.instagram.com/pyr8x/"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="instagram" width="90">
+    <img src="https://img.shields.io/badge/TypeScript-171717?style=for-the-badge&logo=typescript&logoColor=e92e2e" alt="TypeScript" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=e92e2e" alt="JavaScript" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Node.js-171717?style=for-the-badge&logo=node.js&logoColor=e92e2e" alt="Node.js" style="border-radius:15px"/>
+    <br/>
+    <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=e92e2e" alt="HTML5" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/CSS3-171717?style=for-the-badge&logo=css3&logoColor=e92e2e" alt="CSS3" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Sass-171717?style=for-the-badge&logo=sass&logoColor=e92e2e" alt="SASS" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/PHP-171717?style=for-the-badge&logo=php&logoColor=e92e2e" alt="PHP" style="border-radius:15px"/>
 </div>
 
+<br><br>
 
-<h2> Github Stats </h2>
+<h1 align="center">
+    Tool And Technology
+</h1>
 
 <div align="center">
-  <span>Pyr33x Github Stats</span>
-  
-[![Pyr33x Github Stats](https://github-readme-stats.vercel.app/api?username=Pyr33x&show_icons=true&title_color=FFF&bg_color=000&icon_color=FFF&border_radius=10&hide_border=true&text_color=00CF91&count_private=true)](https://github.com/Pyr33x)
+    <img src="https://img.shields.io/badge/React-171717?style=for-the-badge&logo=react&logoColor=e92e2e" alt="React"  style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/React_Router-171717?style=for-the-badge&logo=react-router&logoColor=e92e2e" alt="React Router" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Electron.js-171717.svg?style=for-the-badge&logo=electron&logoColor=e92e2e" alt="Electron.js" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/MongoDB-171717?style=for-the-badge&logo=mongodb&logoColor=e92e2e" alt="MongoDB" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Express.js-171717.svg?style=for-the-badge&logo=express&logoColor=e92e2e" alt="Express.js" style="border-radius:15px"/> 
+    <br/>
+    <img src="https://img.shields.io/badge/Redis-171717.svg?style=for-the-badge&logo=redis&logoColor=e92e2e" alt="Redis" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Heroku-171717?style=for-the-badge&logo=heroku&logoColor=e92e2e" alt="Heroku" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/git-171717.svg?style=for-the-badge&logo=git&logoColor=e92e2e" alt="Git" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Markdown-171717?style=for-the-badge&logo=markdown&logoColor=e92e2e" alt="Markdown" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Webstorm-171717.svg?&style=for-the-badge&logo=webstorm&logoColor=e92e2e" alt="Webstorm" style="border-radius:15px"/>
+</div>
+
+<br><br>
+
+<h1 align="center">
+    Operating System
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ubuntu-171717?style=for-the-badge&logo=ubuntu&logoColor=e92e2e" alt="Ubuntu"  style="border-radius:15px"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-171717?style=for-the-badge&logo=arch-linux&logoColor=e92e2e" alt="Arch Linux"  style="border-radius:15px"/>
+  <img src="https://img.shields.io/badge/Windows-171717?style=for-the-badge&logo=windows&logoColor=e92e2e" alt="Windows"  style="border-radius:15px"/>
+</p>
+
+<br><br>
+
+<h1 align="center">
+    GitHub Stats
+</h1>
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-parsa&langs_count=10&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=171717&title_color=e92e2e&icon_color=e92e2e&text_color=ffffff&count_private=true"  alt=""/>
+</div>
+<br/>
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=im-parsa&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=171717&title_color=e92e2e&icon_color=e92e2e&text_color=ffffff&count_private=true"  alt=""/>
+</div>
+
+<br/>
+
+<div align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-parsa&theme=gruvbox_duo&background=171717&hide_border=true&ring=e92e2e&currStreakLabel=e92e2e&sideNums=F84C4C&currStreakNum=ff7979&sideLabels=e92e2e&text_color=ffffff&count_private=true"  alt=""/>
+</div>
+
+<br/>
+
+<div align="center"> 
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=im-parsa&custom_title=im-parsa's%20Contribution%20Graph&bg_color=171717&color=e92e2e&line=FFFFFF&point=e92e2e&hide_border=F84C4C&count_private=true"  alt=""/>     </a>
+</div>
+
+<br/><br/>
+
+<div align="center"> 
+    <img align="center" src="https://discord.c99.nl/widget/theme-1/488958506280550402.png" alt=""/>
+</div>
+
+<br/>
+
+<img src="https://github.com/im-parsa/im-parsa/raw/main/footer.png" alt="Footer image">
