@@ -1,5 +1,5 @@
 <div align="center">
-    <h4 align="center"><samp> Full Stack Developer - App Developer - Graphic Designer </samp></h4>
+    <h4 align="center"><samp> Full Stack Developer - Application Developer - Graphic Designer </samp></h4>
 </div>
 
 <br>
