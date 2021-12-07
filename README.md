@@ -11,7 +11,7 @@
 </h3>
 
 <div align="center">
-<a href="comingsoon@gmail.com"><image src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="gmail" width="75"></image></a>
+<a href=""><image src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="gmail" width="75"></image></a>
 <a href="https://www.instagram.com/pyr8x"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="instagram" width="90">
 
 
