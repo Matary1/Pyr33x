@@ -1,5 +1,5 @@
 <div align="center">
-    <h3 style="Arial"> Full Stack Developer - App Developer - Graphic Designer  <img src="https://cdn.discordapp.com/emojis/907146037133709323.png?size=24">  </h3>
+    <h3 style="Arial"> Full Stack Developer - App Developer - UI Designer </h3>
 </div>
 
 
