@@ -1,5 +1,5 @@
 <div align="center">
-    <h3 style="Arial"> Full Stack Website Developer - App Developer & Bot - UI Designer </h3>
+    <h3 style="Arial"> Full Stack Website Developer - App & Bot Developer - UI Designer </h3>
 </div>
 
 
