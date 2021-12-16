@@ -65,3 +65,4 @@
   
 [![Pyr33x GitHub stats](https://github-readme-stats.vercel.app/api?username=pyr33x)](https://github.com/pyr33x)
 
+<img src="https://cdn.discordapp.com/attachments/844973689292193824/921150781380493323/footer.png" alt="Hero image">
