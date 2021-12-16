@@ -1,3 +1,6 @@
+<img src="https://cdn.discordapp.com/attachments/844973689292193824/921149576751239198/hero.png" alt="Hero image">
+
+
 <div align="center">
     <h3 style="Arial"> Full Stack Website Developer - App & Bot Developer - UI Designer </h3>
 </div>
