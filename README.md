@@ -15,6 +15,7 @@
 
 <div align="center">
 <a href=""><image src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="gmail" width="75"></image></a>
+<a href="https://discord.gg/CbBKm4s5HK"><img src="https://img.shields.io/badge/-Discord-7289da?style=flat&logo=Discord&logoColor=FFFFFF&labelColor=2c2f33">
 <a href="https://www.instagram.com/pyr8x"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="instagram" width="90">
 
 
