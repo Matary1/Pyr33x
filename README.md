@@ -32,6 +32,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" style="border-radius:15px"/>
 </div>
 
 <h1 align="center">
@@ -42,7 +43,6 @@
     <img src="https://img.shields.io/badge/Vue.JS-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.JS" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Docker-2498ED?style=flat&logo=docker&logoColor=white" alt="Docker" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Docker-2498ED?style=flat&logo=docker&logoColor=white" alt="Docker" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="border-radius:15px"/>
