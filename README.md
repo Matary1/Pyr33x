@@ -44,7 +44,6 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Docker-2498ED?style=flat&logo=docker&logoColor=white" alt="Docker" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Docker-2498ED?style=flat&logo=docker&logoColor=white" alt="Docker" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" style="border-radius:15px"/>
