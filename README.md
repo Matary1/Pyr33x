@@ -51,13 +51,7 @@
 
 
 
-<h1 align="center">
-    Operating System
-</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows-171717?style=for-the-badge&logo=windows&logoColor=e92e2e" alt="Windows"  style="border-radius:15px"/>
-</p>
 
 <h2> My Github Stats </h2>
 
