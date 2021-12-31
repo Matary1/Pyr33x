@@ -24,6 +24,9 @@
 </h1>
 
 <div align="center">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="Dart" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="c" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="go" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="Js" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="Ts" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" style="border-radius:15px"/>
@@ -47,6 +50,8 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="django" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Node.JS-339933?style=flat&logo=node.js&logoColor=white" alt="Node.JS" style="border-radius:15px"/>
 
 
 
