@@ -52,6 +52,7 @@
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="django" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Node.JS-339933?style=flat&logo=node.js&logoColor=white" alt="Node.JS" style="border-radius:15px"/>
+    </div>
 
 
 
