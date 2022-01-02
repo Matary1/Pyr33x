@@ -38,7 +38,7 @@
 </div>
 
 <h1 align="center">
-    Technologies
+    Frameworks / Library
 </h1>
 
 <div align="center">
