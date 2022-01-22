@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <h3 style="Arial"> Full Stack Developer - Senior Software Engineer - UI Designer </h3>
+    <h3 style="Arial"> Full Stack Developer - Software Engineer - UI Designer </h3>
 </div>
 
 
