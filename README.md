@@ -6,12 +6,8 @@
 </div>
 
 
-<br>
-<br>
-
-
 <div align="center">
-    <h3> Working On @TheJumpTeam </h3>
+    <p> <b> Working On <a href="https://github.com/thejumpteam">@TheJumpTeam</a> </b> </p>
     <div>
     
 
