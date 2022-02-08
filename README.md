@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/844973689292193824/931634284010303519/BOMB.png" alt="Hero image">
+<img src="https://cdn.discordapp.com/attachments/844973689292193824/931634284010303519/BOMB.png" alt="Banner">
 
 
 <div align="center">
@@ -20,9 +20,9 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="go" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="Js" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="Ts" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Golang" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="Javascript" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="Typescript" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="border-radius:15px"/>
@@ -32,7 +32,7 @@
 </div>
 
 <h1 align="center">
-    Frameworks / Library
+    Frameworks / Apps
 </h1>
 
 <div align="center">
