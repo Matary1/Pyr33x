@@ -43,6 +43,8 @@
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Node.JS-339933?style=flat&logo=node.js&logoColor=white" alt="Node.JS" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Post Man" style="border-radius:15px"/>
     </div>
 
 
