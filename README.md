@@ -2,16 +2,17 @@
 
 
 <div align="center">
-    <h3 style="Arial"> Full Stack - Software Engineer - UI Designer </h3>
+    <h3 style="Arial"> Full Stack - Software Engineer - UI Designer </h3> 
 </div>
 
 
 <div align="center">
-    <p> <b> Working On <a href="https://github.com/thejumpteam">@TheJumpTeam</a> </b> </p>
+    <p> <b> Working On <a href="https://discord.gg/jfjytZtbWv</a> </b> </p>
     <div>
         </br>
     
     
+
 
 
 <h1 align="center">
