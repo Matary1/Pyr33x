@@ -4,6 +4,8 @@
 <div align="center">
     <h3 style="Arial"> Full Stack - Software Engineer - UI Designer </h3> 
 </div>
+</br>
+</br>
 
 
 
