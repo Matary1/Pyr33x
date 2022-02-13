@@ -4,12 +4,15 @@
 <div align="center">
     <h3 style="Arial"> Full Stack - Software Engineer - UI Designer </h3> 
 </div>
-</br>
-</br>
+<br/>
 
 
 
-    
+<div align="center">
+    <p> Now Working On <a href="https://discord.gg/jfjytZtbWv">@Jump</a> </p>
+</div>
+    </br>
+
     
 
 
