@@ -6,10 +6,7 @@
 </div>
 
 
-<div align="center">
-    <p> <b> Working On <a href="https://discord.gg/jfjytZtbWv</a> </b> </p>
-    <div>
-        </br>
+
     
     
 
