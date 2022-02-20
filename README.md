@@ -62,7 +62,7 @@
 </br>
 </br>
 
-<h2> My Github Stats </h2>
+<div align="center"> <h1> My Github Stats </h1> </div>
 
 <div align="center">
   
