@@ -7,7 +7,7 @@
 
 
 <div align="center">
-    <b> Now Working On <a href="https://discord.gg/jfjytZtbWv">@Jump</a> </b>
+    <b> Now Working On <a href="https://github.com/jump-org">@TheJump</a> </b>
 </div>
     </br>
 
