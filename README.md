@@ -7,7 +7,7 @@
 
 
 <div align="center">
-    <b> Now Working On <a href="https://github.com/jump-org">@TheJump</a></br> In Love With Duck </b>
+    <b> Now Working On <a href="https://github.com/jump-org">@TheJump</a></br> In Love With Ducks </b>
 </div>
     </br>
 
