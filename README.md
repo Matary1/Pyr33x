@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/844973689292193824/931634284010303519/BOMB.png" alt="Banner">
+
 
 
 <div align="center">
