@@ -7,7 +7,7 @@
 
 
 <div align="center">
-    <b> Now Working On <a href="https://github.com/HEXFAM">@HEX</a></br> In Love With Ducks </b>
+    <b> Now Working On <a href="https://github.com/HEXFAM">@HEX</a></br> <em> In Love With Ducks </em> </b>
 </div>
     </br>
 
