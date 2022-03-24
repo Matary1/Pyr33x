@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <h3 style="Arial"> Software Engineer - UI Designer - Community Marketing & Engagement </h3> 
+    <h3 style="Arial"> Software Engineer - UI Designer - Community Manager, Marketing & Engagement </h3> 
 </div>
 
 
