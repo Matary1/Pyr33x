@@ -1,5 +1,5 @@
 <div align="center">
-    <h3 style="Arial"> Software Engineer - UI Designer - Community Manager, Marketing & Engagement </h3> 
+    <h3> <strong> Software Engineer - UI Designer - Community Manager, Marketing </strong> </h3>
 </div>
 
 <div align="center">
