@@ -1,15 +1,11 @@
-
-
-
 <div align="center">
     <h3 style="Arial"> Software Engineer - UI Designer - Community Manager, Marketing & Engagement </h3> 
 </div>
 
-
 <div align="center">
-    <b> Now Working On <a href="https://github.com/HEXFAM">@HEX</a></br> <em> In Love With Ducks </em> </b>
+    <b> Now Working On <a href="https://github.com/HEXFAM">@HEX</a></br><em> In Love With Ducks </em> </b>
 </div>
-    </br>
+ 
 
 <div alt="Im Kind :)">
 <h5 align="center">
