@@ -49,7 +49,6 @@
     <img src="https://img.shields.io/badge/Node.JS-339933?style=flat&logo=node.js&logoColor=white" alt="Node.JS" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Post Man" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white alt="Mongo DB" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" style="border-radius:15px"/>
                                                                                                                                           
