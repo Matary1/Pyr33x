@@ -11,7 +11,7 @@
 </div>
     </br>
 
-<div alt="Pyr33x">
+<div alt="Pyrex's Discord Status">
 <h5 align="center">
 <a  a href="https://discord.com/users/827254269434396712">
   <img src="https://lanyard.cnrad.dev/api/827254269434396712" width="470" height="266" />
